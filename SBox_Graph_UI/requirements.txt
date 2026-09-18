@@ -1,0 +1,4 @@
+# Runtime: no third-party packages required.
+# tkinter is part of standard Windows Python distributions.
+# Optional standalone EXE build:
+# pyinstaller>=6.0

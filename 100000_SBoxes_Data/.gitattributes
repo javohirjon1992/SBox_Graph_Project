@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+100000_SBoxes_GraphData.zip filter=lfs diff=lfs merge=lfs -text

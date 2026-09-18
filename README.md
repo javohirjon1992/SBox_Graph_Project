@@ -224,7 +224,7 @@ This folder contains the data produced during the large-scale candidate evaluati
 
 ### Files
 
-#### `100000_SBoxes_GraphFirst.csv`
+#### `100000_SBoxes_GraphData.csv`
 
 Contains detailed results associated with the generated and evaluated candidate S-box parameter combinations.
 
